@@ -1,4 +1,3 @@
-# Home Page
 ---
 layout: page
 title: Home Page
