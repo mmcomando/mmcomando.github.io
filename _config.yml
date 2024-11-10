@@ -1,7 +1,8 @@
 theme: minima
 title: Michał Masiukiewicz Blog
-author:
-  name: mmcomando
+github_username: mmcomando
+# author:
+#   name: mmcomando
   # email: your-email@domain.com
 description: Various thoughts and experience reports
 
