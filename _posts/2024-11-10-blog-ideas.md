@@ -3,7 +3,7 @@ layout: post
 title: "Blog topic ideas"
 ---
 
-### Maybe I should write a blog about
+### Maybe I should write a blog
 
 Sometimes I have a thoughtful mood. I think about technical topics. What is good? What is better?
 Conclusions to this thoughts are helpful for me, so maybe they can be helpful to somebody else?
