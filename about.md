@@ -10,3 +10,5 @@ Mostly self thought althoug I have a master degree in the field. My starting poi
 I like to find solutions to problems and then find designs which will prevent problems to come back again.
 
 In free time I enjoy trekking, playing piano or reading fantasy books.
+
+![Alt text](assets/mountains_trip.jpg?raw=true "Mountain Trip")
