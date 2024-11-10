@@ -12,5 +12,3 @@ I like to find solutions to problems and then find designs which will prevent pr
 In free time I enjoy trekking, playing piano or reading fantasy books.
 
 ![Expression]({{ "assets/images/mountains_trip.jpg" | relative_url }})  
-aaa
-![Alt text](assets/images/mountains_trip.jpg?raw=true "Mountain Trip")
